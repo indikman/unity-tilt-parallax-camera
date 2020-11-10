@@ -220,21 +220,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6426881364338745280, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -5.86
-      objectReference: {fileID: 0}
-    - target: {fileID: 6426881364338745280, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.33
-      objectReference: {fileID: 0}
-    - target: {fileID: 6426881364338745280, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.31
-      objectReference: {fileID: 0}
     - target: {fileID: 6426881364737440946, guid: cb6b8d8e214845f439ba2a5e797a1276,
         type: 3}
       propertyPath: m_Name
@@ -295,45 +280,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6426881364763326961, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6426881364763326961, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6426881364763326966, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: m_BackGroundColor.r
-      value: 0.9607844
-      objectReference: {fileID: 0}
-    - target: {fileID: 6426881364763326966, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: m_BackGroundColor.g
-      value: 0.47450984
-      objectReference: {fileID: 0}
     - target: {fileID: 8655793654506550967, guid: cb6b8d8e214845f439ba2a5e797a1276,
         type: 3}
-      propertyPath: clampMax.x
-      value: 1.48
-      objectReference: {fileID: 0}
-    - target: {fileID: 8655793654506550967, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: clampMin.x
-      value: -2.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8655793654506550967, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: clampMax.y
-      value: 3.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 8655793654506550967, guid: cb6b8d8e214845f439ba2a5e797a1276,
-        type: 3}
-      propertyPath: clampMin.y
-      value: -2.21
+      propertyPath: speed
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb6b8d8e214845f439ba2a5e797a1276, type: 3}

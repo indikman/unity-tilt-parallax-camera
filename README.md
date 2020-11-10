@@ -22,6 +22,12 @@ Adjust the `CAM` positions to match your mix and max x,y values and change Clamp
 
 The images uses a separate layer and the camera has a culling mask for the layers. Be mindful about the layer name or the images wont be visible in the viewport.
 
+### Preview
+
+![preview](https://media.giphy.com/media/RGqVLMrzbgmZgANMeB/giphy.gif)
+
+![preview](https://media.giphy.com/media/YHPFUIrkr0iDM62veh/giphy.gif)
+
 **Images used in the project :**
 <a href='https://www.freepik.com/vectors/background'>Background vector created by pikisuperstar - www.freepik.com</a>
 
